@@ -95,3 +95,6 @@ a{
 #buttons *:hover{
     border: 1px solid dimgray;
 }
+input:focus{
+    outline: 0;
+}
